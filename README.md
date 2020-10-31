@@ -1,4 +1,5 @@
 # line-chatbot
 
 Personal project to learn chatbot development on line messenger platform using python. (Just for fun)
-Assets used are from my fellow friends.
+<br>
+Note: assets used are from my fellow friends.
